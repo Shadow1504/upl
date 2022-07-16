@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/upl/static/css/main.073c9b0a.css",
+    "main.js": "/upl/static/js/main.5acfa728.js",
+    "static/js/787.938cae0a.chunk.js": "/upl/static/js/787.938cae0a.chunk.js",
+    "static/media/logo.svg": "/upl/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/upl/index.html",
+    "main.073c9b0a.css.map": "/upl/static/css/main.073c9b0a.css.map",
+    "main.5acfa728.js.map": "/upl/static/js/main.5acfa728.js.map",
+    "787.938cae0a.chunk.js.map": "/upl/static/js/787.938cae0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5acfa728.js"
+  ]
+}
